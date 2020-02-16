@@ -7,12 +7,12 @@ Vue.use(VueRouter);
 
 const routes = [
   {
-    path: '/',
+    path: '/task/task3/dist/',
     name: 'list',
     component: List
   },
   {
-    path: '/history/:page?',
+    path: '/task/task3/dist/history/:page?',
     params: false,
     name: 'history',
     component: History
