@@ -10,7 +10,7 @@
     "@fancyapps/fancybox": "^3.5.7",
     "@fortawesome/fontawesome-free": "^5.12.1",
     "animate.css": "^3.7.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "vue": "^2.6.11",
     "vue-router": "^3.1.5",
     "vuex": "^3.1.2"
